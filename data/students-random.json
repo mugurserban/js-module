@@ -1,0 +1,270 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "mrs",
+                "first": "sherry",
+                "last": "lewis"
+            },
+            "location": {
+                "street": "1904 w gray st",
+                "city": "waxahachie",
+                "state": "alabama",
+                "postcode": 42582,
+                "coordinates": {
+                    "latitude": "86.1408",
+                    "longitude": "121.9474"
+                },
+                "timezone": {
+                    "offset": "+3:00",
+                    "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+                }
+            },
+            "email": "sherry.lewis@example.com",
+            "login": {
+                "uuid": "d8993ef0-5c9d-4233-849f-3002a77afad7",
+                "username": "whiteduck141",
+                "password": "markus",
+                "salt": "WK2jomrr",
+                "md5": "9649fcecee79164f39022357e83738b3",
+                "sha1": "dde2e2ad43e16e4e32c9e158ac656bebb794ed9b",
+                "sha256": "1290b1952cc8843a4940a1995e67fcf64ca6485973d656f563b118d3469ed5be"
+            },
+            "dob": {
+                "date": "1945-11-13T14:20:52Z",
+                "age": 73
+            },
+            "registered": {
+                "date": "2004-11-23T06:58:22Z",
+                "age": 14
+            },
+            "phone": "(446)-968-4160",
+            "cell": "(727)-088-8967",
+            "id": {
+                "name": "SSN",
+                "value": "442-15-5494"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/62.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "mrs",
+                "first": "آنیتا",
+                "last": "قاسمی"
+            },
+            "location": {
+                "street": "1988 میدان حر",
+                "city": "خرم‌آباد",
+                "state": "خوزستان",
+                "postcode": 18301,
+                "coordinates": {
+                    "latitude": "-57.9586",
+                    "longitude": "42.5965"
+                },
+                "timezone": {
+                    "offset": "-6:00",
+                    "description": "Central Time (US & Canada), Mexico City"
+                }
+            },
+            "email": "آنیتا.قاسمی@example.com",
+            "login": {
+                "uuid": "1c3c0ddd-f9c6-4642-987e-7ab08733b551",
+                "username": "smalllion525",
+                "password": "frogger",
+                "salt": "VIkZu1LB",
+                "md5": "8bc99b1e0e08ab98712f0ba3a7e60492",
+                "sha1": "1d88e108adb1000d067b4b480c0a5df42a4ccd04",
+                "sha256": "302fe4a078064a2eae7f6ca95843e1e10d0628a97e74ac6189c4cd637d0e72a6"
+            },
+            "dob": {
+                "date": "1977-01-25T15:43:25Z",
+                "age": 41
+            },
+            "registered": {
+                "date": "2013-02-26T17:57:38Z",
+                "age": 5
+            },
+            "phone": "086-99468143",
+            "cell": "0906-194-0639",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/36.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "miss",
+                "first": "elisa",
+                "last": "menard"
+            },
+            "location": {
+                "street": "7745 avenue debourg",
+                "city": "caen",
+                "state": "moselle",
+                "postcode": 32720,
+                "coordinates": {
+                    "latitude": "46.9072",
+                    "longitude": "19.8798"
+                },
+                "timezone": {
+                    "offset": "+3:30",
+                    "description": "Tehran"
+                }
+            },
+            "email": "elisa.menard@example.com",
+            "login": {
+                "uuid": "2d5d975c-879a-46ca-ae7a-e2750a2f70b5",
+                "username": "angryrabbit337",
+                "password": "news",
+                "salt": "jle0snhN",
+                "md5": "f3b0cb61fe3a0d0678683bd300611d64",
+                "sha1": "31c27d1ecaa7b18a87870bb2a17b1454d174dfa2",
+                "sha256": "8de60bd97afb22e7673f7bc1b780141cba42e2c71d0b40bc4e50c7d6a0055a67"
+            },
+            "dob": {
+                "date": "1954-09-04T12:56:23Z",
+                "age": 64
+            },
+            "registered": {
+                "date": "2008-03-28T02:34:31Z",
+                "age": 10
+            },
+            "phone": "04-01-16-88-84",
+            "cell": "06-71-14-22-69",
+            "id": {
+                "name": "INSEE",
+                "value": "2NNaN05123226 85"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/20.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "monsieur",
+                "first": "urs",
+                "last": "lemoine"
+            },
+            "location": {
+                "street": "5311 rue baraban",
+                "city": "cuarnens",
+                "state": "appenzell ausserrhoden",
+                "postcode": 8024,
+                "coordinates": {
+                    "latitude": "80.6532",
+                    "longitude": "-8.2085"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "urs.lemoine@example.com",
+            "login": {
+                "uuid": "84a09c03-b423-41f4-b1aa-0c43539011ac",
+                "username": "tinykoala214",
+                "password": "misfit99",
+                "salt": "Cbo0csLm",
+                "md5": "1c775efa84c93f57a70894ce95710cc8",
+                "sha1": "909d6b9581e73f3ad6613eab36e65e3b3caa244b",
+                "sha256": "07fdd379f6158c74c21a502e3b46b235c96fd8f4a9ef9ad2745a5d01de0c3f65"
+            },
+            "dob": {
+                "date": "1978-09-21T12:49:44Z",
+                "age": 40
+            },
+            "registered": {
+                "date": "2010-04-05T20:03:21Z",
+                "age": 8
+            },
+            "phone": "(704)-762-7135",
+            "cell": "(324)-632-0788",
+            "id": {
+                "name": "AVS",
+                "value": "756.6604.4963.38"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/10.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+            },
+            "nat": "CH"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "mr",
+                "first": "seleso",
+                "last": "caldeira"
+            },
+            "location": {
+                "street": "4445 rua tiradentes ",
+                "city": "ji-paraná",
+                "state": "mato grosso",
+                "postcode": 62375,
+                "coordinates": {
+                    "latitude": "68.4153",
+                    "longitude": "111.2267"
+                },
+                "timezone": {
+                    "offset": "+7:00",
+                    "description": "Bangkok, Hanoi, Jakarta"
+                }
+            },
+            "email": "seleso.caldeira@example.com",
+            "login": {
+                "uuid": "6b22733a-f082-4453-badb-36f9b8630170",
+                "username": "goldenmouse529",
+                "password": "slipknot",
+                "salt": "jYQgEyA4",
+                "md5": "a1a5f3ffe8e6a624a1eab42d3af6a4fd",
+                "sha1": "1fbeeaa80e35a20970178a2b9d1cabbe5014c08c",
+                "sha256": "bb57b530a8da2d9f13b4fe5d78ac22d5367849643c34c4d842c23c4ae4ae846d"
+            },
+            "dob": {
+                "date": "1976-09-09T13:28:17Z",
+                "age": 42
+            },
+            "registered": {
+                "date": "2010-06-15T15:13:48Z",
+                "age": 8
+            },
+            "phone": "(49) 8926-8106",
+            "cell": "(99) 7964-3004",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/4.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+            },
+            "nat": "BR"
+        }
+    ],
+    "info": {
+        "seed": "dec6bd48f3778cbe",
+        "results": 5,
+        "page": 1,
+        "version": "1.2"
+    }
+}

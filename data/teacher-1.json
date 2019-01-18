@@ -1,0 +1,9 @@
+{
+    "grad": "Lector",
+    "desc": "descriere prof 1",
+    "disciplines": [
+        "Biology",
+        "Math",
+        "English"
+    ]
+}
